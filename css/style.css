@@ -21,6 +21,7 @@ body {
   height: 50px;
   width: 50px;
   color: #000;
+  cursor: pointer;
 }
 
 .description {
@@ -37,6 +38,9 @@ body {
   display: flex;
   justify-content: space-around;
   font-weight: bold;
+}
+.mainMenu__Item {
+  cursor: pointer;
 }
 
 .contentBlock {
